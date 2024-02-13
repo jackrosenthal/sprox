@@ -29,7 +29,7 @@ else:
 TEST_SUITE_DEPENDENCIES = TESTS_DEPENDENCIES + ['tw2.forms', 'genshi', 'mako']
 
 setup(
-  name="sprox",
+  name="sprox-jmr",
   version=__version__,
   zip_safe=False,
   include_package_data=True,
